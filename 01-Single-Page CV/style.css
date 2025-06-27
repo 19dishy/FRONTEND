@@ -1,1 +1,19 @@
+body {
+  background-color: gray;
+  color: #333;
+  padding: 20px;
+}
+
+fieldset {
+  background: white;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 10px 10px 10px #ccc;
+
+}
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
 

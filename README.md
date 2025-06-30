@@ -10,5 +10,7 @@ Porjects:
 <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a><br>
 
 Solutions:
-<a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">01-Single-Page CV </a>
-<a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">02-Basic HTML Website</a>
+<ol>
+  <li><a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">Single-Page CV </a></li>
+  <li><a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">Basic HTML Website</a></li>
+</ol>

@@ -6,8 +6,10 @@ This space is where I explore, experiment, and grow my skills in **HTML**, **CSS
 I'm currently building beginner-friendly projects while learning core web development concepts step by step.
 
 Porjects:
+<p>
 <a href="https://roadmap.sh/projects/single-page-cv">Single-Page CV </a><br>
 <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a><br>
+</p>
 
 Solutions:
 <ol>

@@ -12,5 +12,5 @@ Porjects:
 Solutions:
 <ol>
   <li><a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">Single-Page CV </a></li>
-  <li><a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">Basic HTML Website</a></li>
+  <li><a href="https://github.com/19dishy/FRONTEND/tree/main/02-Basic%20HTML%20Website">Basic HTML Website</a></li>
 </ol>

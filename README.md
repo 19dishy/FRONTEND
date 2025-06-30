@@ -5,5 +5,5 @@ This space is where I explore, experiment, and grow my skills in **HTML**, **CSS
 🚧 Status: Work in Progress
 I'm currently building beginner-friendly projects while learning core web development concepts step by step.
 
-<a href="https://roadmap.sh/projects/single-page-cv">Project 01</a><br>
-<a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV">01-Single-Page CV </a>
+<a href="https://roadmap.sh/projects/single-page-cv"></a>01-Single-Page CV <br>
+<a href="https://github.com/19dishy/FRONTEND/tree/main/01-Single-Page%20CV"></a>

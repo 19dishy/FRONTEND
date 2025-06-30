@@ -1,1 +1,80 @@
+/*Index*/
+nav {
+  flex-grow: 1;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 20;
+}
+
+nav ul,a:hover {
+  color: #b769c3;
+}
+
+nav ul , img {
+  vertical-align:middle;
+}
+
+section.intro{
+  background-color: rgb(230, 230, 225);
+  text-align: center;
+}
+
+.mid-part {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.column {
+  border: 1px solid #000;
+  padding: 15px;
+  flex: 1;
+}
+
+.education, .work{
+    flex-grow: 3;
+}
+.projects ul,.work ul{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+
+.quotes ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  gap: 250px;
+}
+
+.quotes li {
+  flex: 1; 
+  text-align: center;
+  border: 2px #625f5f solid;
+  border-radius: 10px;
+  background-color: rgb(207, 199, 200);
+}
+
+footer{
+    text-align: center;
+}
+
+/*Projects*/
+section.proj{
+  text-align: center;
+  font-size: larger;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Article*/
+ul.articles{
+  list-style: none;
+  text-align: center;
+}
+
 

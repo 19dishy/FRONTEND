@@ -7,7 +7,7 @@ I'm currently building beginner-friendly projects while learning core web develo
 
 <p>
 Porjects:
-<a href="https://roadmap.sh/projects/single-page-cv">Single-Page CV </a><br>
+<a href="https://roadmap.sh/projects/single-page-cv">Single-Page CV </a>,
 <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a><br>
 </p>
 
